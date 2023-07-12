@@ -1,5 +1,9 @@
 using Microsoft.EntityFrameworkCore;
 using ProjetoEstudoEntity.Infraestrutura.Contexto;
+using ProjetoEstudoEntity.Infraestrutura.Repositorio;
+using ProjetoEstudoEntity.Infraestrutura.Repositorio.Interface;
+using ProjetoEstudoEntity.Servico.Servico;
+using ProjetoEstudoEntity.Servico.Servico.Interface;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +15,12 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<ProjetoEstudoEntityContexto>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("conexaoBase")));
+
+//Repositorio
+builder.Services.AddScoped<ITarefaRepositorio, TarefaRepositorio>();
+
+//Serviço
+builder.Services.AddScoped<ITarefaServico, TarefaServico>();
 
 var app = builder.Build();
 
