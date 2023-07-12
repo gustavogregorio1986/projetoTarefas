@@ -1,0 +1,12 @@
+C:\ProjetoEstudoEntity\ProjetoEstudoEntity\ProjetoEstudoEntity.Dominio\bin\Debug\net6.0\ProjetoEstudoEntity.Dominio.deps.json
+C:\ProjetoEstudoEntity\ProjetoEstudoEntity\ProjetoEstudoEntity.Dominio\bin\Debug\net6.0\ProjetoEstudoEntity.Dominio.dll
+C:\ProjetoEstudoEntity\ProjetoEstudoEntity\ProjetoEstudoEntity.Dominio\bin\Debug\net6.0\ProjetoEstudoEntity.Dominio.pdb
+C:\ProjetoEstudoEntity\ProjetoEstudoEntity\ProjetoEstudoEntity.Dominio\obj\Debug\net6.0\ProjetoEstudoEntity.Dominio.csproj.AssemblyReference.cache
+C:\ProjetoEstudoEntity\ProjetoEstudoEntity\ProjetoEstudoEntity.Dominio\obj\Debug\net6.0\ProjetoEstudoEntity.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoEstudoEntity\ProjetoEstudoEntity\ProjetoEstudoEntity.Dominio\obj\Debug\net6.0\ProjetoEstudoEntity.Dominio.AssemblyInfoInputs.cache
+C:\ProjetoEstudoEntity\ProjetoEstudoEntity\ProjetoEstudoEntity.Dominio\obj\Debug\net6.0\ProjetoEstudoEntity.Dominio.AssemblyInfo.cs
+C:\ProjetoEstudoEntity\ProjetoEstudoEntity\ProjetoEstudoEntity.Dominio\obj\Debug\net6.0\ProjetoEstudoEntity.Dominio.csproj.CoreCompileInputs.cache
+C:\ProjetoEstudoEntity\ProjetoEstudoEntity\ProjetoEstudoEntity.Dominio\obj\Debug\net6.0\ProjetoEstudoEntity.Dominio.dll
+C:\ProjetoEstudoEntity\ProjetoEstudoEntity\ProjetoEstudoEntity.Dominio\obj\Debug\net6.0\refint\ProjetoEstudoEntity.Dominio.dll
+C:\ProjetoEstudoEntity\ProjetoEstudoEntity\ProjetoEstudoEntity.Dominio\obj\Debug\net6.0\ProjetoEstudoEntity.Dominio.pdb
+C:\ProjetoEstudoEntity\ProjetoEstudoEntity\ProjetoEstudoEntity.Dominio\obj\Debug\net6.0\ref\ProjetoEstudoEntity.Dominio.dll

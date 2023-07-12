@@ -1,0 +1,17 @@
+C:\ProjetoEstudoEntity\ProjetoEstudoEntity\ProjetoEstudoEntity.Infraestrutura\bin\Debug\net6.0\ProjetoEstudoEntity.Infraestrutura.deps.json
+C:\ProjetoEstudoEntity\ProjetoEstudoEntity\ProjetoEstudoEntity.Infraestrutura\bin\Debug\net6.0\ProjetoEstudoEntity.Infraestrutura.runtimeconfig.json
+C:\ProjetoEstudoEntity\ProjetoEstudoEntity\ProjetoEstudoEntity.Infraestrutura\bin\Debug\net6.0\ProjetoEstudoEntity.Infraestrutura.dll
+C:\ProjetoEstudoEntity\ProjetoEstudoEntity\ProjetoEstudoEntity.Infraestrutura\bin\Debug\net6.0\ProjetoEstudoEntity.Infraestrutura.pdb
+C:\ProjetoEstudoEntity\ProjetoEstudoEntity\ProjetoEstudoEntity.Infraestrutura\bin\Debug\net6.0\ProjetoEstudoEntity.Dominio.dll
+C:\ProjetoEstudoEntity\ProjetoEstudoEntity\ProjetoEstudoEntity.Infraestrutura\bin\Debug\net6.0\ProjetoEstudoEntity.Dominio.pdb
+C:\ProjetoEstudoEntity\ProjetoEstudoEntity\ProjetoEstudoEntity.Infraestrutura\obj\Debug\net6.0\ProjetoEstudoEntity.Infraestrutura.csproj.AssemblyReference.cache
+C:\ProjetoEstudoEntity\ProjetoEstudoEntity\ProjetoEstudoEntity.Infraestrutura\obj\Debug\net6.0\ProjetoEstudoEntity.Infraestrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoEstudoEntity\ProjetoEstudoEntity\ProjetoEstudoEntity.Infraestrutura\obj\Debug\net6.0\ProjetoEstudoEntity.Infraestrutura.AssemblyInfoInputs.cache
+C:\ProjetoEstudoEntity\ProjetoEstudoEntity\ProjetoEstudoEntity.Infraestrutura\obj\Debug\net6.0\ProjetoEstudoEntity.Infraestrutura.AssemblyInfo.cs
+C:\ProjetoEstudoEntity\ProjetoEstudoEntity\ProjetoEstudoEntity.Infraestrutura\obj\Debug\net6.0\ProjetoEstudoEntity.Infraestrutura.csproj.CoreCompileInputs.cache
+C:\ProjetoEstudoEntity\ProjetoEstudoEntity\ProjetoEstudoEntity.Infraestrutura\obj\Debug\net6.0\ProjetoEstudoEntity.Infraestrutura.csproj.CopyComplete
+C:\ProjetoEstudoEntity\ProjetoEstudoEntity\ProjetoEstudoEntity.Infraestrutura\obj\Debug\net6.0\ProjetoEstudoEntity.Infraestrutura.dll
+C:\ProjetoEstudoEntity\ProjetoEstudoEntity\ProjetoEstudoEntity.Infraestrutura\obj\Debug\net6.0\refint\ProjetoEstudoEntity.Infraestrutura.dll
+C:\ProjetoEstudoEntity\ProjetoEstudoEntity\ProjetoEstudoEntity.Infraestrutura\obj\Debug\net6.0\ProjetoEstudoEntity.Infraestrutura.pdb
+C:\ProjetoEstudoEntity\ProjetoEstudoEntity\ProjetoEstudoEntity.Infraestrutura\obj\Debug\net6.0\ProjetoEstudoEntity.Infraestrutura.genruntimeconfig.cache
+C:\ProjetoEstudoEntity\ProjetoEstudoEntity\ProjetoEstudoEntity.Infraestrutura\obj\Debug\net6.0\ref\ProjetoEstudoEntity.Infraestrutura.dll
